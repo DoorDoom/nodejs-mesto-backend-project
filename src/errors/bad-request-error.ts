@@ -7,5 +7,5 @@ class BadRequestError extends Error {
     this.statusCode = constants.HTTP_STATUS_BAD_REQUEST;
   }
 }
-export const _i234 = 123;
+
 export default BadRequestError;
