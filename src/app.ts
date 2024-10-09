@@ -1,5 +1,4 @@
 import express from "express";
-// import express from "express";
 import mongoose from "mongoose";
 import users from "./routes/users";
 import cards from "./routes/cards";
